@@ -21,3 +21,19 @@ molto minore, circa lo 0,03%.
 <img width="192" alt="SCR-20230504-kvlh" src="https://user-images.githubusercontent.com/39495752/236173249-fddad5f2-950d-4380-af11-0b3f6cb79ad3.png">
 
 ## Classificazione
+Ogni elemento aggiunto in lega ha un effetto sulla forma del diagramma di
+stato. Gli elementi possono essere:
+- austenitizzanti: nichel, carbonio, azoto, manganese, rame;
+- ferritizzanti: cromo, molibdeno, silicio, titanio, niobio, tantalio, alluminio.
+Al crescere del tenore di cromo, il campo di esistenza della fase $\gamma$ (in grigio in Figura 7.14) si restringe,<br> 
+mentre si allarga il campo $\alpha$ (in nero). Il nichel, invece, causa un comportamento opposto: al crescere del suo tenore<br> 
+il campo di esistenza della fase $\gamma$ si espande a scapito della fase $\alpha$. Questo comporta, per opportuni valori di $Ni$<br> 
+equivalente, la stabilità dell'austenite anche a temperatura ambiente. 
+<br>
+Gli acciai inossidabili possono essere suddivisi, quindi, in cinque macro
+famiglie:
+- ferritici;
+- austenitici;
+- martensitici;
+- ferritico-austenitici (Duplex o bifasici);
+- indurenti per precipitazione (PH, precipitation hardening alloy).
