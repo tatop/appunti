@@ -24,7 +24,8 @@ molto minore, circa lo 0,03%.
 Ogni elemento aggiunto in lega ha un effetto sulla forma del diagramma di
 stato. Gli elementi possono essere:
 - austenitizzanti: nichel, carbonio, azoto, manganese, rame;
-- ferritizzanti: cromo, molibdeno, silicio, titanio, niobio, tantalio, alluminio;<br>
+- ferritizzanti: cromo, molibdeno, silicio, titanio, niobio, tantalio, alluminio;
+<br>
 Al crescere del tenore di cromo, il campo di esistenza della fase $\gamma$ (in grigio in Figura 7.14) si restringe,<br> 
 mentre si allarga il campo $\alpha$ (in nero). Il nichel, invece, causa un comportamento opposto: al crescere del suo tenore<br> 
 il campo di esistenza della fase $\gamma$ si espande a scapito della fase $\alpha$. Questo comporta, per opportuni valori di $Ni$<br> 
