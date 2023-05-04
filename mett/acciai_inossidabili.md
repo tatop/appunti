@@ -83,3 +83,35 @@ ad ambienti aggressivi. Questo fenomeno va tenuto sotto stretto controllo poich�
 costruzioni saldate.
 <br>
 Per migliorare la saldabilità (evitando la sensibilizzazione) ci sono gradi con basso C(304L e 316L, meno di 0,03% C).
+
+## Acciai inox ferritici
+- Struttura ferritica (tipo $\alpha$, BCC). Transizione duttile-fragile.
+- Utilizzati come materiali da costruzione generali (inossidabili).
+- Buona resistenza alla corrosione, meno costose che gli acciai con alto $Ni$.
+- Limitazioni: bassa duttilità, saldabilità e tenacità (resistenza alla frattura).
+
+## Acciai inox martensitici
+- Leghe Fe-Cr con C in contenuto relativamente elevato. 12 a 17% Cr.
+- Chiamati martensitici perché si presentano così dopo austenizzazione e la tempra.
+- La relazione Cr-C e il tenore di Ni devono essere attentamente controllati in modo da non ridurre troppo la temperatura Ms.
+- Resistenza alla corrosione relativamente scarsa rispetto agli acciai inossidabili ferritici e austenitici. Buona resistenza<br> 
+meccanica. Puo variare tra 1000 e 2000 MPa.
+- Acciai inossidabili martensitici per coltelli: 1,1% C, 16 a 18% Cr.
+- Fra gli acciai inossidabili sono quelli con la minore resistenza alla corrosione.
+- Alcuni contengono soltanto il 12% Cr minimo per diventare inossidabili in aria.
+- Con % Cr più elevato tendono ad essere ferritici, diventando così meno temprabili.
+- Sviluppati per avere buona resistenza meccanica e durezza con un minimo di resistenza alla corrosione.
+
+## Acciai inossidabili duplex
+- Famiglia separata di acciai inossidabili (intermedi tra ferritici e austenitici).
+- Combinazione di proprietà fra questi due tipi.
+- Buona resistenza alla corrosione sotto sforzo (non quanto i ferritici).
+- Tenacità alla frattura superiore ai ferritici (non come gli austenitici) e resistenza meccanica superiore agli austenitici.
+### Composizione
+- 18 a 30% Cr (resistenza alla corrosione), 3 a 9% Ni (tenacità e lavorabilità), Mo (resistenza alla corrosione) e basso C (<0,03%).
+- Riscaldati a 1000 - 1150°C e temprati, rimangono le fasi α e γ. (approssimativamente 50% - 50% di ogni una)
+
+Nella maggior parte degli ambienti resistenza alla corrosione migliore rispetto agli acciai 304 e 316.
+- Resistenza a pitting superiore agli acciai 304 e 316.
+- 25% Cr e 3% Mo ha una buona resistenza nell'acqua di mare.
+- Suscettibili alla corrosione sotto sforzo per ioni Cl (meno degli austenitici)
