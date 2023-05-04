@@ -17,3 +17,7 @@ Questo strato presenta alcune caratteristiche:
 Il cromo è l'elemento caratterizante di questi acciai ed è compreso in tenori tra il 12 e il 30%. Altri elementi<br>
 di lega sono il nichel e il molibdeno. Il carbonio si trova in quantità minori del 1,2%, ma molti hanno una quantità <br>
 molto minore, circa lo 0,03%.
+
+<img width="192" alt="SCR-20230504-kvlh" src="https://user-images.githubusercontent.com/39495752/236173249-fddad5f2-950d-4380-af11-0b3f6cb79ad3.png">
+
+## Classificazione
