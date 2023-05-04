@@ -45,3 +45,7 @@ Gli acciai inossidabili possono essere suddivisi, quindi, in cinque macro famigl
 inossidabile e dissimili.
 - Grafico dei campi ferritico, austenitico e martensitico a temperatura ambiente in funzione del contenuto<br> 
 di $Ni$ e $Cr$ equivalenti.
+
+<img width="382" alt="SCR-20230504-lfzi" src="https://user-images.githubusercontent.com/39495752/236179639-e82eacde-c85f-4f04-abea-bf218dbdbac6.png">
+
+## Acciai inox austenitici
