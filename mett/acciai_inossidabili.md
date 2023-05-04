@@ -49,3 +49,35 @@ di $Ni$ e $Cr$ equivalenti.
 <img width="382" alt="SCR-20230504-lfzi" src="https://user-images.githubusercontent.com/39495752/236179639-e82eacde-c85f-4f04-abea-bf218dbdbac6.png">
 
 ## Acciai inox austenitici
+Gli acciai inossidabili austenitici, oltre a presentare una considerevole resistenza all'ossidazione e alla corrosione,<br> 
+sono caratterizzati da una struttura CFC la quale li rende sia amagnetici, sia privi della transizione duttile fragile.<br> 
+
+All'interno di questa famiglia la struttura austenitica può essere ottenuta in due modi diversi:
+- aggiungendo nichel in lega: leghe serie 3xx che rappresentano la tipologia più diffusa di acciai inossidabili;
+- aggiungendo manganese in lega: leghe serie 2xx nelle quali il 6-10% di $Mn$ è usato al posto del $Ni$.
+
+Il più comune è il 18Cr-8Ni, ampliamente diffuso nell'industria per la sua resistenza a diversi ambienti corrosivi.<br>
+La resistenza alla corrosione aumenta con l'aumento del tenore di Ni mentre incrementi in Cr aumentano la resistenza alla<br>
+corrosione intergranulare.<br>
+Sono però suscettibili alla corrosione sotto sforzo, in particolare in presenza di ioni $Cl$ (pochi ppm possono essere disastrose).
+Un altro problema è la frattura intergranulare facilmente sviluppata in presenza di cloruri e temperatura. L'aggiunta di <br>
+$Ni$ riduce significativamente il problema.
+
+Meccanicamente non sono molto resistenti:
+- Sforzo di snervamento ~ 250 MPa;
+- Sforzo di rottura ~ 500 - 600 MPa;
+- Buona duttilità (~ 50% allungamento).
+
+Inoltre non sono trattabili termicamente.
+
+### Sensibilizzazione
+Il fenomeno della sensibilizzazione consiste in un impoverimento localizzato di Cr, presente in soluzione solida nell'acciaio,<br> 
+causato dalla formazione e precipitazione, in loco, di carburi di Cr in particolare del tipo $M_{23}C_{6}$. (M sta per il metallo,<br> 
+in questo caso $Cr_{23}C_{6}$).
+In queste zone (tipicamente, i bordi grano che, com'è noto, sono caratterizzati da un contenuto di energia più elevato rispetto al <br>
+cuore dei grani e sono, quindi, un sito preferenziale per la nucleazione di precipitati), se il contenuto di Cr scende al di<br> 
+sotto di un valore critico (il 12%), l'acciaio diviene localmente vulnerabile alla corrosione intergranulare qualora venga esposto<br>
+ad ambienti aggressivi. Questo fenomeno va tenuto sotto stretto controllo poiché questi acciai vengono impiegati soprattutto in<br>
+costruzioni saldate.
+<br>
+Per migliorare la saldabilità (evitando la sensibilizzazione) ci sono gradi con basso C(304L e 316L, meno di 0,03% C).
