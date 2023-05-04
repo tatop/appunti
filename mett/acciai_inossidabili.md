@@ -52,6 +52,8 @@ di $Ni$ e $Cr$ equivalenti.
 Gli acciai inossidabili austenitici, oltre a presentare una considerevole resistenza all'ossidazione e alla corrosione,<br> 
 sono caratterizzati da una struttura CFC la quale li rende sia amagnetici, sia privi della transizione duttile fragile.<br> 
 
+<img width="403" alt="SCR-20230504-ntyl" src="https://user-images.githubusercontent.com/39495752/236225515-44d163b7-a88e-4767-8514-49e38dd28d92.png">
+
 All'interno di questa famiglia la struttura austenitica può essere ottenuta in due modi diversi:
 - aggiungendo nichel in lega: leghe serie 3xx che rappresentano la tipologia più diffusa di acciai inossidabili;
 - aggiungendo manganese in lega: leghe serie 2xx nelle quali il 6-10% di $Mn$ è usato al posto del $Ni$.
@@ -74,7 +76,7 @@ Inoltre non sono trattabili termicamente.
 Il fenomeno della sensibilizzazione consiste in un impoverimento localizzato di Cr, presente in soluzione solida nell'acciaio,<br> 
 causato dalla formazione e precipitazione, in loco, di carburi di Cr in particolare del tipo $M_{23}C_{6}$. (M sta per il metallo,<br> 
 in questo caso $Cr_{23}C_{6}$).
-In queste zone (tipicamente, i bordi grano che, com'è noto, sono caratterizzati da un contenuto di energia più elevato rispetto al <br>
+In queste zone (tipicamente, i bordi grano che, com'è noto, sono caratterizzati da un contenuto di energia più elevato rispetto al
 cuore dei grani e sono, quindi, un sito preferenziale per la nucleazione di precipitati), se il contenuto di Cr scende al di<br> 
 sotto di un valore critico (il 12%), l'acciaio diviene localmente vulnerabile alla corrosione intergranulare qualora venga esposto<br>
 ad ambienti aggressivi. Questo fenomeno va tenuto sotto stretto controllo poiché questi acciai vengono impiegati soprattutto in<br>
