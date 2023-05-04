@@ -32,10 +32,16 @@ il campo di esistenza della fase $\gamma$ si espande a scapito della fase $\alph
 equivalente, la stabilità dell'austenite anche a temperatura ambiente.<br>
 <br>
 
-Gli acciai inossidabili possono essere suddivisi, quindi, in cinque macro
-famiglie:
+Gli acciai inossidabili possono essere suddivisi, quindi, in cinque macro famiglie:
 - ferritici;
 - austenitici;
 - martensitici;
 - ferritico-austenitici (Duplex o bifasici);
 - indurenti per precipitazione (PH, precipitation hardening alloy);
+
+## Diagramma di Schaeffler
+- Modo conveniente per rappresentare l'effetto degli elementi di lega sulla struttura di base degli acciai inossidabili $CrNi$.
+- Ampiamente utilizzato nella saldatura di acciai
+inossidabile e dissimili.
+- Grafico dei campi ferritico, austenitico e martensitico a temperatura ambiente in funzione del contenuto<br> 
+di $Ni$ e $Cr$ equivalenti.
