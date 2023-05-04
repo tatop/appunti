@@ -31,6 +31,7 @@ mentre si allarga il campo $\alpha$ (in nero). Il nichel, invece, causa un compo
 il campo di esistenza della fase $\gamma$ si espande a scapito della fase $\alpha$. Questo comporta, per opportuni valori di $Ni$<br> 
 equivalente, la stabilità dell'austenite anche a temperatura ambiente.<br>
 <br>
+
 Gli acciai inossidabili possono essere suddivisi, quindi, in cinque macro
 famiglie:
 - ferritici;
