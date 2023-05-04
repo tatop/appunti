@@ -29,7 +29,7 @@ stato. Gli elementi possono essere:
 Al crescere del tenore di cromo, il campo di esistenza della fase $\gamma$ (in grigio in Figura 7.14) si restringe,<br> 
 mentre si allarga il campo $\alpha$ (in nero). Il nichel, invece, causa un comportamento opposto: al crescere del suo tenore<br> 
 il campo di esistenza della fase $\gamma$ si espande a scapito della fase $\alpha$. Questo comporta, per opportuni valori di $Ni$<br> 
-equivalente, la stabilità dell'austenite anche a temperatura ambiente. 
+equivalente, la stabilità dell'austenite anche a temperatura ambiente.<br>
 <br>
 Gli acciai inossidabili possono essere suddivisi, quindi, in cinque macro
 famiglie:
@@ -37,4 +37,4 @@ famiglie:
 - austenitici;
 - martensitici;
 - ferritico-austenitici (Duplex o bifasici);
-- indurenti per precipitazione (PH, precipitation hardening alloy).
+- indurenti per precipitazione (PH, precipitation hardening alloy);
